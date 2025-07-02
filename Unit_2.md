@@ -1,6 +1,5 @@
 # Tokens, Expressions and Control Structures
 
-## Tokens, Expressions, and Control Structures
 ### Tokens
 Tokens are the smallest individual elements in a Java program. They include:
 - **Keywords**: Reserved words like `int`, `class`, `public`, etc.
