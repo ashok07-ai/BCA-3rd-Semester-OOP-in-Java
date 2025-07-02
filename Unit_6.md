@@ -1,4 +1,4 @@
-### Handling Strings in Java
+# Handling Strings in Java
 Strings in Java are objects that represent sequences of characters. The `String` class is part of the `java.lang` package.
 
 ### Creation of Strings

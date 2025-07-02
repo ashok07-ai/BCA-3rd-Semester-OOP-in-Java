@@ -1,4 +1,4 @@
-### Exception Handling in Java
+# Exception Handling in Java
 ### Basic Exceptions
 An exception is an unwanted or unexpected event that disrupts the normal flow of a program.
 - Java provides a powerful mechanism to handle such situations using exceptions.

@@ -1,4 +1,4 @@
-## Inheritance & Packaging
+# Inheritance & Packaging
 
 ### Inheritance
 Inheritance allows a class (subclass) to acquire properties and methods of another class (superclass).
